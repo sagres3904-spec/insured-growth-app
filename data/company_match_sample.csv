@@ -1,0 +1,6 @@
+source_company_name,code,match_status,notes
+エムスリー株式会社,2413,matched,社名表記ゆれを吸収
+LINEヤフー株式会社,4689,matched,法人格付き名称
+株式会社リクルートホールディングス,6098,matched,手動補正済み
+日本電信電話株式会社,9432,manual_review,略称と正式名称の差分あり
+ソフトバンクグループ株式会社,9984,uncertain,持株会社と事業会社の混同に注意
